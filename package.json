@@ -22,7 +22,7 @@
     "gatsby-remark-images": "^1.5.67",
     "gatsby-remark-prismjs": "^1.2.24",
     "gatsby-source-filesystem": "^1.5.39",
-    "gatsby-transformer-remark": "^1.7.44",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^1.6.27",
     "react-helmet": "^5.2.0",
     "react-ionicons": "^2.1.6",
